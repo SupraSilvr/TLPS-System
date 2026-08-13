@@ -1,0 +1,2 @@
+# TLPS-System
+TLPS (Temporary Local Positioning System) prototype for when GPS infrastructure is unavailable. 4 beacons find relative distance to a subject by transmitting and receiving UWB signals. The devices run on raspberry pi nano 2 for a cheap yet powerful brain. This system can be used in situations where GPS is not available like in natural disasters.
